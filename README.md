@@ -80,4 +80,4 @@ git-work/
 - Researchers are encouraged to apply findings responsibly and to consider bias mitigation strategies when deploying AI systems.
 
 ## Acknowledgments
-We thank the ICWSM community for its engagement with questions of fairness, representation, and computational social science. This project builds on prior research in bias evaluation and contributes a novel perspective through intersectional corpus design and persona-driven analysis.
+We thank the ACM community for its engagement with questions of fairness, representation, and computational social science. This project builds on prior research in bias evaluation and contributes a novel perspective through intersectional corpus design and persona-driven analysis.
