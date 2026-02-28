@@ -8,7 +8,7 @@ The key goals of this work are:
 - To design a **structured corpus** for evaluating bias across multiple intersecting social dimensions.  
 - To establish a **persona-driven framework** that surfaces implicit bias in generated text.  
 - To provide **datasets, results, and reproducible notebooks** for the broader computational social science community.  
-- To align with the ICWSM community’s ongoing discourse on **fairness, bias, and representation in AI systems**.  
+- To align with the ACM community’s ongoing discourse on **fairness, bias, and representation in AI systems**.  
 
 ---
 
